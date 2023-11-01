@@ -1,5 +1,3 @@
 # Evidence-based Line Segment Merging
 
-## Naila Hamid, Nazar Khan and Arbish Akram
-Computer Vision & Machine Learning Group, Department of Computer Science, University of the Punjab, Lahore, Pakistan
-
+ELSM is a technique that takes detected segments for an image and its size as input and results merged segments. It overcomes the weaknesses of existins detection algorithms that results in borken segments. Here we present a general workflow of the technique in the form of an image.
