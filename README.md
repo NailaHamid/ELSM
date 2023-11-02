@@ -1,5 +1,4 @@
 # Evidence-based Line Segment Merging
 
-ELSM is a technique that takes detected segments for an image and its size as input and results merged segments. It overcomes the weaknesses of existins detection algorithms that results in borken segments. Here we present a general workflow of the technique in the form of an image.
-
+ELSM is a technique that takes detected segments for an image and its size as input and results in merged segments. It overcomes the weaknesses of existing detection algorithms that result in broken segments. You can check algorithm and details in paper pdf. Here we present a general workflow of the technique stepwise in the form of an image. 
 ![Pipeline](/assests/img/pipeline2.jpg)
